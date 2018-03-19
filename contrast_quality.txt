@@ -1,0 +1,9 @@
+18056401685_c5b313e712_o.jpg,2.040051
+3894541598_bb37af2dcd_o.jpg,2.499854
+correct1.jpg,4.808709
+over1.jpg,2.750928
+retinex1.jpg,4.014806
+retinex2.jpg,4.566351
+retinex3.jpg,4.605044
+retinex4.jpg,4.609673
+under1.jpg,2.017121
