@@ -27,4 +27,16 @@ $ python pycontrast.py
 Edit the code to change the location of the input images and the output text file.
 
 ### Block diagram
+<img src="https://github.com/ashish-code/entropic_image_contrast_measure/blob/master/contrast%20score%20research%20plan.jpg" width="800">
 
+#### Example
+
+I compared the performance of our approach against state-of-art method called 'Generalized Contrast Function' that utilizes local feature descriptor based measure of contrast value in image. The images below are progressively improving exposure and contrast. My method was able to consistently estimate the contrast score better than GCF.
+
+<img src="https://github.com/ashish-code/entropic_image_contrast_measure/blob/master/contrast_comparison1.png">
+
+##### Other sample results
+
+<img src="https://github.com/ashish-code/entropic_image_contrast_measure/blob/master/contrast_comparison2.png" width="1000">
+
+<img src="https://github.com/ashish-code/entropic_image_contrast_measure/blob/master/contrast_comparison3.png" width="600">
