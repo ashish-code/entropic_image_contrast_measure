@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Entropic Image Contrast Measure"
+abstract: >-
+  A reference-free image contrast metric based on the mutual information between
+  image intensity and its equalized histogram. Outperforms the Global Contrast
+  Factor (GCF) on subtle exposure changes. Developed in the context of
+  media-forensics research (DARPA MediFor).
+type: software
+authors:
+    - given-names: Ashish
+      family-names: Gupta
+      orcid: "https://orcid.org/0000-0002-0670-2375"
+repository-code: "https://github.com/ashish-code/entropic_image_contrast_measure"
+url: "https://github.com/ashish-code/entropic_image_contrast_measure"
+license: MIT
+keywords:
+  - computer-vision
+  - image-quality
+  - mutual-information
+  - media-forensics
+  - image-processing
+# Note: no journal/conference paper is linked to this repo on Google Scholar.
+# If one is published, add a preferred-citation block here.
