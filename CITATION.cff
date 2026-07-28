@@ -14,6 +14,9 @@ authors:
 repository-code: "https://github.com/ashish-code/entropic_image_contrast_measure"
 url: "https://github.com/ashish-code/entropic_image_contrast_measure"
 license: MIT
+doi: 10.5281/zenodo.21635792
+version: "1.0.0"
+date-released: "2026-07-28"
 keywords:
   - computer-vision
   - image-quality
