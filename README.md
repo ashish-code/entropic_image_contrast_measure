@@ -2,6 +2,7 @@
 
 <div align="center">
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21635792.svg)](https://doi.org/10.5281/zenodo.21635792)
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python)](https://www.python.org/)
 [![pytest](https://img.shields.io/badge/tests-26%20passing-brightgreen?style=flat-square)](tests/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter)](https://jupyter.org/)
