@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" font-family="'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1120"/><stop offset="1" stop-color="#111C33"/></linearGradient>
+    <radialGradient id="glow" cx="0.82" cy="0.45" r="0.5"><stop offset="0" stop-color="#FBBF24" stop-opacity="0.28"/><stop offset="1" stop-color="#FBBF24" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="300" rx="16" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="16" fill="url(#glow)"/>
+  <rect x="1.5" y="1.5" width="1197" height="297" rx="15" fill="none" stroke="#FBBF24" stroke-opacity="0.22"/>
+  <rect x="64" y="70" width="4" height="150" rx="2" fill="#FBBF24"/>
+  <text x="88" y="86" fill="#FBBF24" font-size="15" font-weight="700" letter-spacing="3">NO-REFERENCE METRIC · MUTUAL INFORMATION</text>
+  <text x="86" y="150" fill="#F4F7FB" font-size="44" font-weight="800" letter-spacing="0.5">Entropic Contrast Measure</text>
+  <text x="88" y="192" fill="#9AA7BD" font-size="21">Reference-free image contrast metric from the Mutual</text><text x="88" y="219" fill="#9AA7BD" font-size="21">Information between intensity &amp; equalized histograms.</text>
+  <g font-size="15" font-weight="600" fill="#C7D2E4"><g><rect x="88" y="244" width="44" height="30" rx="15" fill="#18233A" stroke="#FBBF24" stroke-opacity="0.45"/><text x="110" y="264" text-anchor="middle">MI</text></g><g><rect x="142" y="244" width="126" height="30" rx="15" fill="#18233A" stroke="#FBBF24" stroke-opacity="0.45"/><text x="205" y="264" text-anchor="middle">No-Reference</text></g><g><rect x="278" y="244" width="77" height="30" rx="15" fill="#18233A" stroke="#FBBF24" stroke-opacity="0.45"/><text x="316.5" y="264" text-anchor="middle">Python</text></g><g><rect x="365" y="244" width="85" height="30" rx="15" fill="#18233A" stroke="#FBBF24" stroke-opacity="0.45"/><text x="407.5" y="264" text-anchor="middle">Jupyter</text></g></g>
+  <g>
+      <rect x="872" y="200" width="12" height="22" rx="1.5" fill="#FBBF24" fill-opacity="0.8"/><rect x="887" y="182" width="12" height="40" rx="1.5" fill="#FBBF24" fill-opacity="0.8"/><rect x="902" y="164" width="12" height="58" rx="1.5" fill="#FBBF24" fill-opacity="0.8"/><rect x="917" y="174" width="12" height="48" rx="1.5" fill="#FBBF24" fill-opacity="0.8"/><rect x="932" y="192" width="12" height="30" rx="1.5" fill="#FBBF24" fill-opacity="0.8"/><rect x="947" y="206" width="12" height="16" rx="1.5" fill="#FBBF24" fill-opacity="0.8"/><path d="M868,224 H966" stroke="#3a465e" stroke-width="1.5"/>
+      <rect x="1032" y="180" width="12" height="42" rx="1.5" fill="#FBBF24" fill-opacity="0.45"/><rect x="1047" y="176" width="12" height="46" rx="1.5" fill="#FBBF24" fill-opacity="0.45"/><rect x="1062" y="179" width="12" height="43" rx="1.5" fill="#FBBF24" fill-opacity="0.45"/><rect x="1077" y="175" width="12" height="47" rx="1.5" fill="#FBBF24" fill-opacity="0.45"/><rect x="1092" y="178" width="12" height="44" rx="1.5" fill="#FBBF24" fill-opacity="0.45"/><rect x="1107" y="177" width="12" height="45" rx="1.5" fill="#FBBF24" fill-opacity="0.45"/><path d="M1028,224 H1126" stroke="#3a465e" stroke-width="1.5"/>
+      <path d="M974,150 H1022" stroke="#FBBF24" stroke-width="2.5" stroke-linecap="round"/><path d="M1022,150 l-8,-5 l0,10 Z" fill="#FBBF24"/><path d="M974,150 l8,-5 l0,10 Z" fill="#FBBF24"/>
+      <text x="998" y="138" text-anchor="middle" fill="#FBBF24" font-size="15" font-weight="700">MI</text>
+    </g>
+</svg>
