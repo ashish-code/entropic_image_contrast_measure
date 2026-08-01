@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="docs/banner.svg" alt="Entropic Contrast Measure — no-reference image contrast metric from Mutual Information" width="100%">
+</div>
+
 # Entropic Image Contrast Measure
 
 <div align="center">
